@@ -6,7 +6,7 @@ private/
 
 # Ignore folders
 .github/
-
+dmosat/.idea/
 # C extensions
 *.so
 
