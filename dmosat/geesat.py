@@ -1,0 +1,1 @@
+"A module to calculate common satellite-derived drought indices using Google Earth Engine"
