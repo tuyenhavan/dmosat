@@ -4,6 +4,9 @@ private/
 *.py[cod]
 *$py.class
 
+# Ignore folders
+.github/
+
 # C extensions
 *.so
 
