@@ -1,5 +1,4 @@
 """This module aims to provide common customized functions to serve the PhD work.
-
 Thus, it may or may not related to dmosat package, and it intended for personal use.
 
 """
